@@ -8,6 +8,20 @@
       "recommend_bg": "https://raw.githubusercontent.com/zyfAnd/sleepwell-assets/master/images/Breathing-Technique-for-Stress-Relief-&-Meditation-Music-(5-5-5-5)-#breathing-#relaxationmethods-u3c92g.jpg",
       "recommend_color": "#7080A2",
       "recommend_category_id": 1
-  }
+    },
+    {
+      "category_id": 999,
+      "category_name": "Weekly",
+      "recommend_list": [
+        {
+          "recommend_id": 1735640197543,
+          "recommend_name": "Short Meditation Music - 3 Minute Relaxation, Calming",
+          "recommend_music": "https://raw.githubusercontent.com/zyfAnd/sleepwell-assets/master/sounds/Short-Meditation-Music---3-Minute-Relaxation,-Calming-dg4mv.mp3",
+          "recommend_color": "#7080A2",
+          "recommend_category_id": 1,
+          "created_at": "2024-12-31T10:16:41.954Z"
+        }
+      ]
+    }
   ]
 }
